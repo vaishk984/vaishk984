@@ -20,4 +20,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishk984&show_icons=true&hide_border=true&locale=en" alt="vaishk984" /></p>
 
-<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vaishk984&theme=dark&hide_border=true&border_radius=5&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=vaishk984&theme=dark&hide_border=true&border_radius=5&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" />
+  </a>
+</p>
