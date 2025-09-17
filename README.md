@@ -22,8 +22,7 @@ Inspired by modern, clean developer profiles. Edit freely to add new achievement
 **Tools:** ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
 
 ### ⚡ GitHub Stats  
-[![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishk984&hide=stars&hide_border=true&show_icons=true&theme=midnight-purple)](https://github.com/vaishk984)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishk984&layout=compact&hide_border=true&theme=midnight-purple)](https://github.com/vaishk984)
+[![Vaishnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishk984&hide=stars&hide_border=true&show_icons=true&theme=midnight-purple)](https://github.com/vaishk984) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishk984&layout=compact&hide_border=true&theme=midnight-purple)](https://github.com/vaishk984)
 
 ## 🌍 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vaishk984)[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/vaishk984)[![Email](https://img.shields.io/badge/Email-white?style=flat&logo=gmail)](mailto:vaishk984@gmail.com)[![Portfolio](https://img.shields.io/badge/Portfolio-yellow?style=flat&logo=web&borderRadius=8)](https://portfolio-beta-five-zlk4pkv34x.vercel.app/)  
