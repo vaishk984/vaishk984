@@ -11,7 +11,7 @@ Inspired by modern, clean developer profiles. Edit freely to add new achievement
 
 ## 🚀 About Me  
 👋 I’m Vaishnavi, a passionate developer who loves building secure, scalable, and user-friendly applications.  
-💡 Strong interest in **system design**, **AI-driven solutions**, and **cloud-native applications**.  
+💡 Strong interest in **machine learning**, **mordern web architectures**, and **performance optimization**.  
 ⚡ I enjoy taking on complex challenges and transforming ideas into impactful products.  
 🌱 Currently sharpening my skills in **C++/DSA**, **AI-driven solutions**, and **scalable product development**.
 
